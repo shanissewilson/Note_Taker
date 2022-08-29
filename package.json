@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Shanisse Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuidv4": "^6.2.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanissewilson/Note_Taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/shanissewilson/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/shanissewilson/Note_Taker#readme"
+}
