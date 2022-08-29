@@ -13,6 +13,7 @@ Github repo: https://github.com/shanissewilson/Note_Taker
 https://github.com/kara-krzystan/note-taker
 https://github.com/amandalatkins/note-taker
 https://betterprogramming.pub/simple-notes-app-with-node-js-and-mongoosejs-6595cd5d15b
+Tutoring sessions :)
 
 # License 
 ISC
